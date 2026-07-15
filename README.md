@@ -3,16 +3,16 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Fahham!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Olavo+Anselmo!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**, com uma sólida trajetória na Globo, onde desempenhei papéis chave em testes de software, automação e infraestrutura. Minhas áreas de expertise incluem a criação e execução de testes manuais e automatizados, implementação de práticas DevOps e SRE, e otimização de desempenho e confiabilidade das aplicações.
 
-Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
+Sou estudante de Sistemas de Informação 4º periodo em transição de carreira após sólida trajetória profissional fundamentada na Engenharia Agronômica e no Direito. Tenho experiência robusta em gestão de produtos, liderança de equipes operacionais, planejamento estratégico e conformidade de processos. Atualmente, direciono meu foco para as áreas de Quality Assurance (QA), Product Management e Engenharia de Dados, unindo meu histórico analítico e multidisciplinar ao domínio de ferramentas como Java, Python, SQL e metodologias ágeis para solucionar problemas complexos.
+
+Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas tecnologias.
 
 ## 🌎 Encontre-me na web
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
-- ✉️ rfahham@gmail.com
-- 📚 [Curriculum](curriculum.md)
+- 💼 [LinkedIn](www.linkedin.com/in/olavo-cavalcanti-0278a072)
+[Curriculum](curriculum.md)
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/ricardo-fahham/">
