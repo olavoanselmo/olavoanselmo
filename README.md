@@ -50,7 +50,7 @@ Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas
     title="Cypress" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
 <img 
     align="left" 
