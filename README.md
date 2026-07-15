@@ -35,14 +35,14 @@ Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas
 
 --- 
 
-- **DEVOPS** – Adotando as melhores práticas para uma operação eficiente:
+- **Metologias Ágeis** – Adotando as melhores práticas para uma operação eficiente:
   - **Cloud:** Gestão de ambientes em nuvem pública e privada.
   - **Infraestrutura como Código:** Automação da infraestrutura para facilitar o gerenciamento e a escalabilidade.
   - **Pipeline:** Implementação e otimização de pipelines para automação de processos.
 
 --- 
 
-- **SRE** – Garantindo a Confiabilidade e Disponibilidade:
+- **Cloud** – Garantindo a Confiabilidade e Disponibilidade:
   - **Monitoramento:** Acompanhamento contínuo da infraestrutura e aplicações para garantir sua performance e disponibilidade.
 
 
@@ -63,7 +63,7 @@ Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas
 
 --- 
 
-### Na área de DEVOPS
+### Na área de desenvolvimento
 
 <details>
   <summary>Experiência com as principais ferramentas e tecnologias para otimização e automação de processos.</summary>
@@ -77,17 +77,9 @@ Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas
 
 ---
 
-### Na área de SRE
+### Na área de __
 
-<details>
-  <summary>Experiência com as principais ferramentas e práticas para garantir a confiabilidade, escalabilidade e performance dos sistemas.</summary>
 
-  - **Monitoramento e Observabilidade:** Utilização de **Prometheus**, **Grafana** e **ELK Stack** para monitorar infraestrutura e aplicações, garantindo performance e disponibilidade.
-  - **SLA, SLI e SLO:** Implementação e acompanhamento de **Service Level Agreements** (SLAs), **Service Level Indicators** (SLIs) e **Service Level Objectives** (SLOs) para assegurar a excelência operacional.
-  - **Gestão de Incidentes:** Práticas para gestão de incidentes e resposta rápida, utilizando ferramentas como **PagerDuty** e **Opsgenie**.
-  - **Automação de Recuperação:** Aplicação de estratégias de **Chaos Engineering** e **Resilience Testing** para simular falhas e avaliar a recuperação do sistema sob condições adversas.
-  - **Escalabilidade e Performance:** Ferramentas e abordagens para garantir que sistemas escalem de forma eficiente e mantenham alta disponibilidade, como **Kubernetes**, **Docker** e **AWS**.
-</details>
 
 ---
 
