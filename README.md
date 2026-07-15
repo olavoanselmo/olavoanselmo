@@ -12,7 +12,7 @@ Estou sempre em busca de aprendizado em tecnologia. E adoro aprender sobre novas
 
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](www.linkedin.com/in/olavo-cavalcanti-0278a072)
-[Curriculum](curriculum.md)
+- 💼 [Curriculum](curriculum.md)
 
 <!-- <div align="left">
   <a href="https://www.linkedin.com/in/ricardo-fahham/">
